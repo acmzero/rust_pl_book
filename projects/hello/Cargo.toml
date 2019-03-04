@@ -1,0 +1,10 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["heli"]
+edition = "2018"
+
+[lib]
+name = "hello"
+
+[dependencies]
